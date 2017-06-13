@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">StreamingAPI</string>
+    <string name="API_key">AIzaSyCwn4HEMvpHzpj1eMiJUPuo-BdB-jSA_A4</string>
+    <string name="clientID"> 218702542520-lupu1hqhsq0fm0bcl8ltrcvqqol7fasn.apps.googleusercontent.com </string>
 </resources>
